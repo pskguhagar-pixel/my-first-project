@@ -1,0 +1,102 @@
+zzgi  1  ls
+    2  ls
+    3  ls
+    4  git init   *******
+    5  git status  **************
+    6  git config --global user.name "Prajakta Kalambate"
+    7  git config --global user.name "Prajakta Kalambate"
+    8  git config --global user.email "pskguhagar@gmail.com"
+    9  git add
+   10  ls
+   11  git add LC
+   12  git status
+   13  git commit -m "this is my mini project"
+   14  git status
+   15  git push --set-upstream origin master
+   16  git push -u origin master
+   17  ls
+   18  cd Lc
+   19  ls
+   20  cd LC
+   21  ls
+   22  git init --initial-branch=main
+   23  git remote add origin https://gitlab.com/second-year-mini-project/leaving-certificate-generation.git
+   24  git add.
+   25  git add .
+   26  git commit -m "this is mini project"
+   27  git push --set-upstream origin main
+   28  git push --set-upstream origin main
+   29  git push --set-upstream origin main
+   30  git push --set-upstream origin main
+   31  git push --set-upstream origin main
+   32  git push --set-upstream origin main
+   33  git push --set-upstream origin main
+   34  git push --set-upstream origin main
+   35  ls
+   36  cd ../
+   37  cd ../
+   38  cd ,,/
+   39  cd ,,/
+   40  cd ../
+   41  ls
+   42  cd OldProject/
+   43  ls
+   44  git status
+   45  git add chat.zip
+   46  git status
+   47  git branch -M main
+   48  git branch -M main
+   49  ls
+   50  cd chat.zip
+   51  ls
+   52  cd chat
+   53  git branch -M main
+   54  git remote add origin https://gitlab.com/second-year-mini-project/chat-application.git
+   55  git branch -M main
+   56  git init --initial-branch=main
+   57  git push --set-upstream origin main
+   58  ls
+   59  git push -uf origin main
+   60  git add .
+   61   git push --set-upstream origin main
+   62  git branch
+   63  git branch -r
+   64  git branch -r
+   65  git branch -r
+   66  git branch
+   67  git push --set-upstream origin magitin
+   68  git push --set-upstream origin main
+   69  git checkout -b main
+   70  git add .
+   71  git commit -m "Your commit chat application"
+   72  git push -u origin main
+   73  git status
+   74  ls
+   75  git remote add origin https://gitlab.com/second-year-mini-project/chat-application.git
+   76  git add .
+   77  git commit -m "this is chat application"
+   78  git status
+   79  git config --global user.name "Prajakta Kalambate"
+   80  git config --global user.email "pskguhagar@gmail.com"
+   81  git status
+   82  cd ../
+   83  lsls
+
+   84  cd chat
+   85  ls
+   86  git remote add origin https://gitlab.com/second-year-mini-project/chat-application.git
+   87  git add .
+   88  git status
+   89  git commit -m "this is chat application"
+   90  git push --set-upstream origin main
+   91  history
+
+??????????????????????????////////////////////
+
+
+cd existing_repo
+git remote add origin https://gitlab.com/study7905316/mycalculator.git
+git branch -M main
+git pull origin main
+git push -uf origin main
+
